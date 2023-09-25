@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gary, an <a href="https://linkedin.com/in/gary--kirk">IT Professional and Teacher</a></h1>
+<h1>Hi, I'm Gary, an <a href="https://linkedin.com/in/gary--kirk">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
