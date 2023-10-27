@@ -9,9 +9,3 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/GaryKirk/configure-ad)
   - [Network Security Groups and Inspecting Traffic Between Azure Machines](https://github.com/GaryKirk/azure-network-protocols)
-
-<h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/gary--kirk
